@@ -67,8 +67,8 @@ def test_task_list_all_handles_mixed_naive_and_aware_created_values(tmp_path: Pa
             "assignee": "",
             "tags": [],
             "parent_id": "",
-            "created": "2026-04-13T11:00:00+02:00",
-            "updated": "2026-04-13T11:00:00+02:00",
+            "created": "2026-04-15T11:00:00+02:00",
+            "updated": "2026-04-15T11:00:00+02:00",
         },
     )
 
